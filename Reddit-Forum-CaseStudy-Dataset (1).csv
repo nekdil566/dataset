@@ -1,0 +1,108 @@
+comment_Text,comment_id,comment_upvotes,parent_id,Rationale_Type
+Google Maps is testing a combined Commute tab to replace Driving and Transit,9clgh7,404,0,
+"Add turn by turn nav to Maps Go please, so I can get rid of this bloated PoS app that is barely a navigation/maps program..",e5bqkhk,-4,9clgh7,feature
+"""Google Maps Go for Android Go gets proper turn-by-turn navigation""
+ https://www.xda-developers.com/google-maps-go-turn-by-turn-navigation/",e5c4xqn,6,e5bqkhk,claim-neutral
+"Trafi app already does all of that. It combines public transport, ride sharing and car sharing. ",e5bwn4g,0,9clgh7,feature
+Need to do more than UI changes if you want to beat Citymapper if you live in a large city. ,e5btxu4,0,9clgh7,feature
+I work from home so the commute tab would make no sense to me and I'd wonder where my driving directions went.,e5bmpya,-1,9clgh7,feature
+"But I don't commute to the movies, or McDonald's, or the grocery store.... ",e5bs4w3,0,9clgh7,claim-attack
+"In other news, they're considering putting the *map* in its own tab. 
+
+How stupid are they?",e5c9mr9,1,9clgh7,feature
+I like it. one tab less. public transportation doesn't work here anyway,e5bwzrb,1,9clgh7,claim-support
+I like it,e5d5dph,1,9clgh7,claim-support
+I think it qwould be better to add it as it's own thing tbh,e5d3fyg,1,9clgh7,feature
+Why do we need a button for map **and** commute? So that map can give us suggestions? Isn't that what Google now is for?,e5d237r,1,9clgh7,issue
+I still have the 4 tabs which I am happy with because of the fact that I use public transit multiple times a day.,e5colkv,1,9clgh7,claim-support
+Why does Google Maps have tabs in the first place?,e5bumvv,4,9clgh7,issue
+Good. Keep it simple,e5bhqef,5,9clgh7,claim-support
+I just want to see the street names,e5c1e4u,2,9clgh7,feature
+I wish Google Maps was slightly less US centric in its featureset. Much of the world cycle commutes. Even some Americans!,e5bs6c7,16,9clgh7,feature
+"If you cycle to work everyday, you don't need directions.",e5c7vu0,1,e5bs6c7,claim-attack
+"I beg to differ, I often take one of three different routes depending on traffic, weather etc.",e5d85sh,3,e5c7vu0,claim-attack
+You underestimate how good I am at getting lost.,e5cgv1o,10,e5c7vu0,claim-attack
+Huh? It has a cycling option,e5d41nl,3,e5bs6c7,issue
+A few Americans even walk. This change strikes me as generally stupid more than ethnocentric-stupid.,e5c08ws,12,e5bs6c7,claim-support
+"Fair enough, you're right. I know many dense cities in america have higher rates of walking and cycling than lots of EU cities, including Google's hometown...",e5c3xex,4,e5c08ws,claim-support
+I wish they had something for truckers. Like a truck route only section.,e5bhr9p,18,9clgh7,feature
+Check Sygic Truck. It's Sygic Navigation with specific routes for trucks. I like the map colors they use in that app.,e5choob,1,e5bhr9p,feature
+"Truckers don't use Google maps though. They use Rand McNally. It has designated truck routes, weigh stations, bridge/tunnel heights, etc. Things that truckers actually need.",e5bixvt,51,e5bhr9p,feature
+"Hey Google, maybe it's time for a Google Maps Pro to supplement your Maps portfolio?",e5bqzlk,2,e5bixvt,feature
+"Similar to Google Earth Pro? *Might* work, but I doubt many people would be willing to pay for it. I'd prefer a smoother Maps Go experience.",e5ciyid,2,e5bqzlk,feature
+"It would still be nice to have that, especially to avoid situations like the 11foot8 bridge.",e5bo31c,8,e5bixvt,claim-neutral
+"I mean, anyone who goes through that bridge with a truck isnt thinking because it's clearly labelled well before the bridge...it shouldn't even dare send you close to that bridge.",e5bv6i3,7,e5bo31c,claim-neutral
+That bridge is so well signed that anyone who drives through it probably shouldn't be driving a truck. The detour isn't terribly complicated for a truck either. ,e5bwgvp,9,e5bo31c,claim-neutral
+"In fact, in Rand McNally, they wear hats on their feet and hamburgers eat people.",e5bqj1h,16,e5bixvt,claim-support
+Where is the speed limits? Don't they own waze? Can't they use waze speed limits?,e5crv0y,7,9clgh7,feature
+Yeah I remember seeing them for a short time. What happened Google?,e5cv318,3,e5crv0y,claim-support
+Maps is getting way too bloated and uses way too much rich-media. The explore tab could be its own app. ,e5bpnup,36,9clgh7,claim-attack
+"Way too bloated, I only use it to locate a place but rarely to do anything about the location, got better apps for that. ",e5bu127,10,e5bpnup,claim-support
+"Yeah me too, the maps themselves kind of suck, rather use OsmAnd",e5d9oa2,1,e5bu127,feature
+"I haven't heard of any apps for that, mind dropping some recommendations? ",e5c2txt,3,e5bu127,feature
+"maybe he's talking about another GPS Navigation APP?
+
+If that's the case we have HERE We Go, Sygic, Tom-Tom, Karta, MAPS.ME, OsmAnd, etc.",e5chm3o,2,e5c2txt,issue
+"Can't they just rename the tab dynamically based on whether you selected Drive or Public Transport in the ""how do you get to work?"" question they ask you?
+
+This is how Google Assistant handles things.",e5bi1ce,51,9clgh7,feature
+"what if I'm not going to work? or I don't work in the same cubical farm every day?
+",e5bs0cs,5,e5bi1ce,claim-attack
+I hate how it keeps badgering me to put in a work address. I work from home.,e5c0qe6,5,e5bs0cs,claim-support
+"drives me nuts too, I work freelance for a dozen different companies and my start of day can be anywhere from 8 am to 11pm, it used to pull data from my calendar, now it just assumes i must commute down the 101 at 7am like all the Google drones do. 
+
+
+I ended up plugging in an address just to shut it up, and just ignore the useless notifications.",e5c574t,3,e5c0qe6,claim-support
+"That's the hilarious thing. Google employees in SF largely don't even drive. Some of them work at the office on the Embarcadero while the ones at the Googleplex generally take the company bus down.
+
+It would be so trivial to add in an option saying that it doesn't apply to you. I can't believe they haven't had any feedback to do that.
+
+My larger hope is to manually specify travel methods for various events. Some I know I'll be taking the bus for, others are close enough that I always bike, certain ones I'll just walk. While they could try to figure out my criteria (good luck) just letting me specify would be a lot simpler.",e5d7mqx,1,e5c574t,claim-support
+"what they should do is leave it alone.
+until they figure out a good ui for mutimodal.
+after they make bus stops and train station icons visible at usable zoom level anyway.",e5d9jcp,1,e5d7mqx,feature
+"In maps? Yes. Part of the problem is that, before they ruined it, Google Now would pop up letting you know when to leave for an appointment. The problem was that it only ever allowed you to choose one option for transit. Which, while easy, is unrealistic unless you live in the suburbs and drive everywhere. I wish I could specify how I plan to travel to calendar events and possibly letting it learn over time when I correct it. Without this it meant that it couldn't realistically notify me at the right time for the given method I planned to employ.
+
+Even better would be if it was smart enough to realize that things change. Oh, you didn't actually leave the house on time and now you're running late? Learn that I'm not going to wait around on the bus in that situation and will instead call a rideshare. Or that I *might* take a bus home late at night if it's coming soon, but otherwise I'm grabbing a rideshare.",e5dizid,1,e5d9jcp,feature
+"If you use public transportation to get to work, you probably don't ask Google Maps about it. You already know your route.
+
+As a person who uses both, it's not about getting to work. It's about going everywhere else. I want to pick every time. I don't want anything that Google can guess for me. I just want to pick.",e5c03j5,7,e5bi1ce,claim-attack
+"I know a lot of people who live in a bedroom community, drive to a transit line, and then take the train into the city. This solution seems perfect for that mix.",e5bu0gl,7,e5bi1ce,claim-support
+They only could afford two tabs and assistant is a different team/product and you know that's impossible for Google to have a good integration across their products,e5bo4qs,29,e5bi1ce,claim-attack
+They're allocating team members to 3 different new chat apps,e5bqf79,9,e5bo4qs,claim-support
+Probably more than that even.,e5bv2j3,2,e5bqf79,claim-support
+I don't know how practical it would be especially for people that don't drive or the others that don't take public transits. ,e5bh1by,126,9clgh7,claim-attack
+Surely 'commute settings' will allow you to enable/disable different travel methods.,e5bhwu7,5,e5bh1by,claim-support
+"I don't want to enable/disable, I want to pick. I don't want to have to go into settings every single time I'm looking for directions.",e5c001z,10,e5bhwu7,claim-attack
+Exactly.,e5chi75,1,e5c001z,claim-support
+"As far as I understand, this is just about your commute, not random directions. If you search for a place and try to get directions, you should still have all options available.",e5d0jfz,3,e5c001z,claim-attack
+"I'm only now noticing these tabs at the bottom where they try to set up my commute. What is the point of these if I don't look for directions? I know they're trying to push explore, but... none of these four tabs relate to anything I open Google Maps to do.",e5daofw,2,e5d0jfz,claim-attack
+"Well for me personally as I have my home and work address set up, I can quickly check when the next bus leaves to get home. As I don't drive by car I can't really judge that though as I see it, you can quickly start a navigation to work/home by car. Both of these make it so I have a glance on when I'll be at home/work and possible start a navigation faster than by using the search bar.
+
+I personally use explore rarely, but it came to use when I was on holidays a few times. So I'd say it depends on who's using them but it's definitely not useless.
+
+Additionally I can see both driving and public transit combined be useful for people who do one or the other to get home/to work. For people who often use both it'll probably be annoying. Thus I see the change mentioned in the article much more as a bad thing than the almost neglible benefit of only having one tab.",e5dbmuv,1,e5daofw,claim-attack
+"I'm still waiting for the feature for those of us who have to drive a half hour to get to a parking lot, then take a bus to work...",e5bk8f0,20,e5bh1by,feature
+"Citymapper does that, just set your commute start point to your park-and-ride station and it'll tell you when you have to get to that station every morning to get to work in time. ",e5bu4b5,3,e5bk8f0,feature
+"I'm on the citymapper site on my computer and I don't see any way to show me driving and then getting on the train, just walking and train",e5diuxz,1,e5bu4b5,claim-attack
+"I think due to fact you could uncheck the public transport, this would    
+   
+a) be helpful for those who use both     
+b) wont cause any harm to people who only use one transport",e5bhsdu,68,e5bh1by,claim-attack
+"I use both, and that sounds really annoying. I don't want to go fiddle with the settings, uncheck the one I'm not in the mood to use, check the one I'm in the mood to use, and come back. I just want to hit the one I'm using.
+
+Also, I walk, what happened to that?",e5bzx5i,15,e5bhsdu,claim-attack
+"> Also, I walk, what happened to that?
+Do you really need GPS navigation for walking?",e5ctlzb,-6,e5bzx5i,claim-attack
+In foreign cities I find it very useful for longer distances,e5djgug,1,e5ctlzb,claim-attack
+How do you propose anyone gets to a place they're unfamiliar with if they don't have GPS navigation? ,e5cyx3h,7,e5ctlzb,claim-attack
+You can always look at the map and plan a route. I'm just anybody needs turn-by-turn navigation for walking.,e5czfpz,-6,e5cyx3h,claim-attack
+"I don't usually go into turn-by-turn navigation, I just want directions. In case, for example, there's a street blocked off that I don't know about. Or if one route is faster or slower than it looks. It's also sometimes easier than zooming the map to the exact right places by hand.
+
+I'm not sure what your problem is, but a lot of us find walking directions helpful.",e5dbn4z,2,e5czfpz,feature
+Or...you could believe that people walk long distances and can't memorise a map or don't have a great sense of direction or any number of perfectly good reasons to use GPS while walking,e5d6vd7,6,e5czfpz,claim-attack
+"Yes. Indoor maps, non-grid cities and smartwatch navigation.",e5cwhu1,9,e5ctlzb,claim-attack
+"But there's times where I want to use public transport and others when I don't, and since some Transit Centers have the bus routes like if each one was its own station it's practical to have everything on that tab.
+
+Besides, are they planning on adding an extra tab?",e5bo0t5,29,e5bhsdu,feature
+~~Ads~~ Places of interest?,e5c9tbc,0,e5bo0t5,claim-support
